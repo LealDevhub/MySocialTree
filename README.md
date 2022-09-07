@@ -1,6 +1,6 @@
 # MySocialTree
 Projeto desenvolvido no curso Rocketseat como desafios práticos, para melhor obtenção de conhecimento.
-link do projeto:  https://fplealhub.github.io/MySocialTree/
+link do projeto:  https://LealDevhub.github.io/MySocialTree/
 
 <img align="right" height="590rem" src="https://raw.githubusercontent.com/gist/FPLealhub/b9041e20f84fa21004d41d970a198413/raw/6260b4c06231d4ebae2916cb37a9c77e6712546b/githubcard.svg"/>
 <h1 align="left">Hi <img src"https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif"  width="30px" />, i´m Fabricio P. Leal   </h1>
