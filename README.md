@@ -1,16 +1,9 @@
 # MySocialTree
 Projeto desenvolvido no curso Rocketseat como desafios práticos, para melhor obtenção de conhecimento.
-link do projeto:  https://LealDevhub.github.io/MySocialTree/
 
-<img align="right" height="590rem" src="https://raw.githubusercontent.com/gist/FPLealhub/b9041e20f84fa21004d41d970a198413/raw/6260b4c06231d4ebae2916cb37a9c77e6712546b/githubcard.svg"/>
-<h1 align="left">Hi <img src"https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif"  width="30px" />, i´m Fabricio P. Leal   </h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=FPLealhub&color=yellow" alt="Profile view" /> </p>
+Link do projeto:  https://LealDevhub.github.io/MySocialTree/
 
-- 👋 Hi, I’m @FPLealhub
-- 👀 I’m interested in enter the field of information technology
-- 🌱 I'm currently learning programming at rocketseat  
-- 💞️ I’m looking to collaborate on backend development
-- 📫 How to reach me: @f.p.leal on instagram
+<img align="center" src="https://cdn.discordapp.com/attachments/842816577501659146/1194740283137593364/Captura_de_tela_2024-01-10_173049.png?" />
 
 <br></br>
 
