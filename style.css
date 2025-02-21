@@ -30,95 +30,20 @@ p {
 #social-box {
   margin-top: 30px;
   /*border: 1px solid red;*/
-  width: 326px;
+  max-width: 326px;
   margin-inline: auto;
-}
-
-.avatar {
-  width: 200px;
-  height: 200px;
-  border-radius: 50%;
-  border: var(--purple) 2px solid;
-  padding: 6px;
-  margin-bottom: 10px;
-  transition: 0.3s;
-}
-
-.avatar:hover {
-  width: 220px;
-  height: 220px;
-}
-
-/*.avatar {
-  height: 213px;
-  width: 213px;
-
-  margin-inline: auto;
-
-  margin-bottom: 10px;
-  border: 2px solid rgba(187, 153, 221, 1);
-  border-radius: 50%;
 
   display: flex;
   align-items: center;
   justify-content: center;
-  transition: 0.3s;
+
+  &>div:nth-child(1) img {
+    width: 400px;
+  }
 }
 
-.avatar:hover {
-  width: 225px;
-  height: 225px;
-}
-
-.avatar img:hover {
-  height: 215px;
-  width: 215px;
-}
-
-.avatar img {
-  height: 203px;
-  width: 203px;
-  border-radius: 50%;
-  transition: 0.3s;
-}*/
-
-/*ul li {
-  border: 2px solid var(--purple);
-  border-radius: 4px;
-  width: 100%;
-  padding: 12px;
-  text-align: center;
-  margin-bottom: 16px;
-  transition: 0.3s;
-}*/
-
-ul li a {
-  font-size: 16px;
-  display: block;
-  width: 100%;
-  padding: 12px;
-
-  border: 2px solid var(--purple);
-  border-radius: 4px;
-
-  margin-bottom: 16px;
-  transition: 0.3s;
-}
-
-ul li a:hover {
-  border: 2px solid var(--body-bg-color);
-  background-color: rgba(187, 153, 221, 1);
-  color: #faf7fd;
-}
-
-footer .socials a {
-  display: inline-block;
-  margin-top: 20px;
-  margin-right: 10px;
-  margin-left: 10px;
-  transition: 0.3s;
-}
-
-footer .socials a:hover {
-  transform: translateY(-8px);
+@media (max-width: 613px) {
+  #social-box {
+    flex-direction: column;
+  }
 }
